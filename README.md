@@ -1,16 +1,30 @@
-### Hi there 👋
+Olá, eu sou o Alê Avian;
 
-<!--
-**AleAvian/AleAvian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou trabalhando Backend.
+- 🌱 Estou trabalhando com Java, SpringBoot, MySql, Mvc
+- 😄 Ele/Dele
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+  
+  <a href="https://github.com/AleAvian">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AleAvian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleAvian&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Ale-Java" height="40" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Ale-Spring" height="40" width="90" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Ale-MySql" height="40" width="90" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ 
+</div>
+
+##
+  
+  <div> 
+  <a href="https://www.linkedin.com/in/alessandroavian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ 
+</div>
+
